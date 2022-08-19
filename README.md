@@ -1,8 +1,12 @@
 # cschleiden
 
-I work on [GitHub Actions](https://github.com/features/actions) during the day, and also sometimes [at night](https://github.com/cschleiden/vscode-github-actions). 
+:wave: I currently work at GitHub on [GitHub Actions](https://github.com/features/actions) during the day, and also sometimes [at night](https://github.com/cschleiden/vscode-github-actions). 
 
-Find me [@cschleiden](https://twitter.com/cschleiden) and [https://cschleiden.dev/](https://cschleiden.dev/).
+Find me [@cschleiden](https://twitter.com/cschleiden), [https://cschleiden.dev/](https://cschleiden.dev/), and https://www.linkedin.com/in/cschleiden/.
+
+## Most active projects
+
+- **go-workflows** - durable workflow-as-code engine in Go https://github.com/cschleiden/go-workflows
 
 ## Blog
 <!--START_SECTION:feed-->
