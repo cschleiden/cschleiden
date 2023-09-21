@@ -1,6 +1,6 @@
 # cschleiden
 
-:wave: I currently work at GitHub on [GitHub Actions](https://github.com/features/actions) during the day, and also sometimes [at night](https://github.com/cschleiden/vscode-github-actions). 
+:wave: I'm currently on parental leave. When not taking care of the 👶 I work at GitHub on [GitHub Actions](https://github.com/features/actions).
 
 Find me [@cschleiden](https://twitter.com/cschleiden), [https://cschleiden.dev/](https://cschleiden.dev/), and https://www.linkedin.com/in/cschleiden/.
 
