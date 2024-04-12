@@ -1,6 +1,6 @@
 # cschleiden
 
-I work at GitHub on [GitHub Actions](https://github.com/features/actions).
+I currently work at GitHub. Before that I worked at Microsoft in Redmond on Azure Boards and before that as application development consultant for Microsoft Germany. 
 
 Find me [@cschleiden](https://twitter.com/cschleiden), [https://cschleiden.dev/](https://cschleiden.dev/), and https://www.linkedin.com/in/cschleiden/.
 
